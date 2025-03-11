@@ -4,7 +4,7 @@ This repository contains the code and resources related to the project developed
 
 # Technologies
 
-This project was conducted using Python 3.11 and the following frameworks/libraries:
+This project was conducted using Python 3.11 on Google Colab and the following frameworks/libraries:
 
 - DEAP
 - Numpy
